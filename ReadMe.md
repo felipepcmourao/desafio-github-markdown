@@ -10,7 +10,6 @@
 | ----|--------|
 |Versionamento de código | Plataforma de colaboração |
 
-<<<<<<< HEAD
 Acesse meu perfil na [DIO](https://www.dio.me/users/felipepcmourao) <br>
 Acesse meu perfil no [LinkedIn](https://linkedin.com/in/felipepcmourao)
 
@@ -19,7 +18,7 @@ Acesse meu perfil no [LinkedIn](https://linkedin.com/in/felipepcmourao)
 ### 3
 #### 4
 ##### 5
-=======
+
 </center>
 
 ### Contatos
@@ -46,4 +45,3 @@ Acesse meu perfil no [LinkedIn](https://linkedin.com/felipepcmourao)
 </center>
 
 :octocat: :wave:
->>>>>>> 7655743 (update readme)
